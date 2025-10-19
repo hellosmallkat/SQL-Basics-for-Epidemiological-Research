@@ -1,1 +1,1 @@
-My version of NSDC's SQL Basics for Epidemiological Research Project both the start and finshed version
+My version of NSDC's SQL Basics for Epidemiological Research Project both the start and finshed version. This project is designed for beginners who want to practice writing SQL queries and become familiar with SQL syntax and basic data analysis tasks. 
